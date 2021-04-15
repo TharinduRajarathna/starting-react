@@ -1,4 +1,13 @@
 import './App.css';
+import exercises from './exercise.json'
+
+const listOfExercises = exercises.slice(0, 20).map(exercise => (
+    <tr key={exercise.id}>
+        <td>{exercise.name}</td>
+        <td>{exercise.muscleGroups.join(', ')}</td>
+        <td>{exercise.categories.join(', ')}</td>
+    </tr>
+));
 
 function App() {
     return (
@@ -13,16 +22,14 @@ function App() {
             <h1 className="title">Exercise Search</h1>
             <table width="100%">
                 <thead>
-                    <tr>
-                        <th>Exercise</th>
-                        <th>Target Body Part</th>
-                    </tr>
+                <tr>
+                    <th>Exercise</th>
+                    <th>Muscle Group</th>
+                    <th>Category</th>
+                </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>Chest Fly</td>
-                        <td>Chest</td>
-                    </tr>
+                    {listOfExercises}
                 </tbody>
             </table>
         </div>

@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "push-ups",
+    "muscleGroups": [
+      "arms",
+      "shoulders"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "biceps curls",
+    "muscleGroups": [
+      "arms",
+      "shoulders"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "shoulder press",
+    "muscleGroups": [
+      "arms",
+      "shoulders"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "bench dips",
+    "muscleGroups": [
+      "arms",
+      "shoulders"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "lateral raises",
+    "muscleGroups": [
+      "arms",
+      "shoulders"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "barbell back squats",
+    "muscleGroups": [
+      "legs"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "dumbbell lunges",
+    "muscleGroups": [
+      "legs"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Romanian deadlifts",
+    "muscleGroups": [
+      "legs"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "step-ups",
+    "muscleGroups": [
+      "legs"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "calve raises",
+    "muscleGroups": [
+      "legs"
+    ],
+    "categories": [
+      "Barbel",
+      "Dumbbell",
+      "Reps Only"
+    ]
+  }
+]
